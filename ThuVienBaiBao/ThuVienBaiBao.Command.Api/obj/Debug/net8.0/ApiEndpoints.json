@@ -1,0 +1,200 @@
+[
+  {
+    "ContainingType": "ThuVienBaiBao.Command.Api.Controllers.IntegrationController",
+    "Method": "GetMenuById",
+    "RelativePath": "api/integration/menus/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ThuVienBaiBao.Grpc.MenuDetailReply",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ThuVienBaiBao.Command.Api.Controllers.IntegrationController",
+    "Method": "GetNewsById",
+    "RelativePath": "api/integration/news/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ThuVienBaiBao.Grpc.NewsDetailReply",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ThuVienBaiBao.Command.Presentation.Controllers.MenusController",
+    "Method": "Create",
+    "RelativePath": "api/menus",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ThuVienBaiBao.Command.Contracts.Menus.CreateMenuRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ThuVienBaiBao.Command.Contracts.Menus.MenuDetailDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ThuVienBaiBao.Command.Presentation.Controllers.MenusController",
+    "Method": "Update",
+    "RelativePath": "api/menus/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "ThuVienBaiBao.Command.Contracts.Menus.UpdateMenuRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ThuVienBaiBao.Command.Contracts.Menus.MenuDetailDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ThuVienBaiBao.Command.Presentation.Controllers.MenusController",
+    "Method": "Delete",
+    "RelativePath": "api/menus/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ThuVienBaiBao.Command.Presentation.Controllers.NewsController",
+    "Method": "Create",
+    "RelativePath": "api/news",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ThuVienBaiBao.Command.Contracts.News.CreateNewsRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ThuVienBaiBao.Command.Contracts.News.NewsDetailDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ThuVienBaiBao.Command.Presentation.Controllers.NewsController",
+    "Method": "Update",
+    "RelativePath": "api/news/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "ThuVienBaiBao.Command.Contracts.News.UpdateNewsRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ThuVienBaiBao.Command.Contracts.News.NewsDetailDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ThuVienBaiBao.Command.Presentation.Controllers.NewsController",
+    "Method": "Delete",
+    "RelativePath": "api/news/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

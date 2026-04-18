@@ -1,0 +1,17 @@
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Application\bin\Debug\net8.0\ThuVienBaiBao.Command.Application.deps.json
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Application\bin\Debug\net8.0\ThuVienBaiBao.Command.Application.dll
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Application\bin\Debug\net8.0\ThuVienBaiBao.Command.Application.pdb
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Application\bin\Debug\net8.0\ThuVienBaiBao.Command.Contracts.dll
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Application\bin\Debug\net8.0\ThuVienBaiBao.Command.Domain.dll
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Application\bin\Debug\net8.0\ThuVienBaiBao.Command.Domain.pdb
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Application\bin\Debug\net8.0\ThuVienBaiBao.Command.Contracts.pdb
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Application\obj\Debug\net8.0\ThuVienBaiBao.Command.Application.csproj.AssemblyReference.cache
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Application\obj\Debug\net8.0\ThuVienBaiBao.Command.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Application\obj\Debug\net8.0\ThuVienBaiBao.Command.Application.AssemblyInfoInputs.cache
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Application\obj\Debug\net8.0\ThuVienBaiBao.Command.Application.AssemblyInfo.cs
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Application\obj\Debug\net8.0\ThuVienBaiBao.Command.Application.csproj.CoreCompileInputs.cache
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Application\obj\Debug\net8.0\ThuVienB.74DF83AB.Up2Date
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Application\obj\Debug\net8.0\ThuVienBaiBao.Command.Application.dll
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Application\obj\Debug\net8.0\refint\ThuVienBaiBao.Command.Application.dll
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Application\obj\Debug\net8.0\ThuVienBaiBao.Command.Application.pdb
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Application\obj\Debug\net8.0\ref\ThuVienBaiBao.Command.Application.dll

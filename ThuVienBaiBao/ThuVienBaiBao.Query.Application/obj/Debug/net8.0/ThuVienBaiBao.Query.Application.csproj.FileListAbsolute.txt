@@ -1,0 +1,17 @@
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Application\bin\Debug\net8.0\ThuVienBaiBao.Query.Application.deps.json
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Application\bin\Debug\net8.0\ThuVienBaiBao.Query.Application.dll
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Application\bin\Debug\net8.0\ThuVienBaiBao.Query.Application.pdb
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Application\bin\Debug\net8.0\ThuVienBaiBao.Query.Contracts.dll
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Application\bin\Debug\net8.0\ThuVienBaiBao.Query.Domain.dll
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Application\bin\Debug\net8.0\ThuVienBaiBao.Query.Domain.pdb
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Application\bin\Debug\net8.0\ThuVienBaiBao.Query.Contracts.pdb
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Application\obj\Debug\net8.0\ThuVienBaiBao.Query.Application.csproj.AssemblyReference.cache
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Application\obj\Debug\net8.0\ThuVienBaiBao.Query.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Application\obj\Debug\net8.0\ThuVienBaiBao.Query.Application.AssemblyInfoInputs.cache
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Application\obj\Debug\net8.0\ThuVienBaiBao.Query.Application.AssemblyInfo.cs
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Application\obj\Debug\net8.0\ThuVienBaiBao.Query.Application.csproj.CoreCompileInputs.cache
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Application\obj\Debug\net8.0\ThuVienB.9A1BAFA3.Up2Date
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Application\obj\Debug\net8.0\ThuVienBaiBao.Query.Application.dll
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Application\obj\Debug\net8.0\refint\ThuVienBaiBao.Query.Application.dll
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Application\obj\Debug\net8.0\ThuVienBaiBao.Query.Application.pdb
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Application\obj\Debug\net8.0\ref\ThuVienBaiBao.Query.Application.dll

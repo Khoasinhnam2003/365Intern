@@ -1,0 +1,11 @@
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Infrastructure\bin\Debug\net8.0\ThuVienBaiBao.Query.Infrastructure.deps.json
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Infrastructure\bin\Debug\net8.0\ThuVienBaiBao.Query.Infrastructure.dll
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Infrastructure\bin\Debug\net8.0\ThuVienBaiBao.Query.Infrastructure.pdb
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Infrastructure\obj\Debug\net8.0\ThuVienBaiBao.Query.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Infrastructure\obj\Debug\net8.0\ThuVienBaiBao.Query.Infrastructure.AssemblyInfoInputs.cache
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Infrastructure\obj\Debug\net8.0\ThuVienBaiBao.Query.Infrastructure.AssemblyInfo.cs
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Infrastructure\obj\Debug\net8.0\ThuVienBaiBao.Query.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Infrastructure\obj\Debug\net8.0\ThuVienBaiBao.Query.Infrastructure.dll
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Infrastructure\obj\Debug\net8.0\refint\ThuVienBaiBao.Query.Infrastructure.dll
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Infrastructure\obj\Debug\net8.0\ThuVienBaiBao.Query.Infrastructure.pdb
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Infrastructure\obj\Debug\net8.0\ref\ThuVienBaiBao.Query.Infrastructure.dll

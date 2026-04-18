@@ -1,0 +1,11 @@
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Infrastructure\bin\Debug\net8.0\ThuVienBaiBao.Command.Infrastructure.deps.json
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Infrastructure\bin\Debug\net8.0\ThuVienBaiBao.Command.Infrastructure.dll
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Infrastructure\bin\Debug\net8.0\ThuVienBaiBao.Command.Infrastructure.pdb
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Infrastructure\obj\Debug\net8.0\ThuVienBaiBao.Command.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Infrastructure\obj\Debug\net8.0\ThuVienBaiBao.Command.Infrastructure.AssemblyInfoInputs.cache
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Infrastructure\obj\Debug\net8.0\ThuVienBaiBao.Command.Infrastructure.AssemblyInfo.cs
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Infrastructure\obj\Debug\net8.0\ThuVienBaiBao.Command.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Infrastructure\obj\Debug\net8.0\ThuVienBaiBao.Command.Infrastructure.dll
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Infrastructure\obj\Debug\net8.0\refint\ThuVienBaiBao.Command.Infrastructure.dll
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Infrastructure\obj\Debug\net8.0\ThuVienBaiBao.Command.Infrastructure.pdb
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Infrastructure\obj\Debug\net8.0\ref\ThuVienBaiBao.Command.Infrastructure.dll

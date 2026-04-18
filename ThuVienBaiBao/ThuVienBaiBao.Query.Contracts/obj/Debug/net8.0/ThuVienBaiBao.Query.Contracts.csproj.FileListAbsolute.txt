@@ -1,0 +1,11 @@
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Contracts\bin\Debug\net8.0\ThuVienBaiBao.Query.Contracts.deps.json
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Contracts\bin\Debug\net8.0\ThuVienBaiBao.Query.Contracts.dll
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Contracts\bin\Debug\net8.0\ThuVienBaiBao.Query.Contracts.pdb
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Contracts\obj\Debug\net8.0\ThuVienBaiBao.Query.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Contracts\obj\Debug\net8.0\ThuVienBaiBao.Query.Contracts.AssemblyInfoInputs.cache
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Contracts\obj\Debug\net8.0\ThuVienBaiBao.Query.Contracts.AssemblyInfo.cs
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Contracts\obj\Debug\net8.0\ThuVienBaiBao.Query.Contracts.csproj.CoreCompileInputs.cache
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Contracts\obj\Debug\net8.0\ThuVienBaiBao.Query.Contracts.dll
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Contracts\obj\Debug\net8.0\refint\ThuVienBaiBao.Query.Contracts.dll
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Contracts\obj\Debug\net8.0\ThuVienBaiBao.Query.Contracts.pdb
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Query.Contracts\obj\Debug\net8.0\ref\ThuVienBaiBao.Query.Contracts.dll

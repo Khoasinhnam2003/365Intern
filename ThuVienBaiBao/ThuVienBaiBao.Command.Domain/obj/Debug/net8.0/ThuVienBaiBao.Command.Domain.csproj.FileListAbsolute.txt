@@ -1,0 +1,11 @@
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Domain\bin\Debug\net8.0\ThuVienBaiBao.Command.Domain.deps.json
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Domain\bin\Debug\net8.0\ThuVienBaiBao.Command.Domain.dll
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Domain\bin\Debug\net8.0\ThuVienBaiBao.Command.Domain.pdb
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Domain\obj\Debug\net8.0\ThuVienBaiBao.Command.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Domain\obj\Debug\net8.0\ThuVienBaiBao.Command.Domain.AssemblyInfoInputs.cache
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Domain\obj\Debug\net8.0\ThuVienBaiBao.Command.Domain.AssemblyInfo.cs
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Domain\obj\Debug\net8.0\ThuVienBaiBao.Command.Domain.csproj.CoreCompileInputs.cache
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Domain\obj\Debug\net8.0\ThuVienBaiBao.Command.Domain.dll
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Domain\obj\Debug\net8.0\refint\ThuVienBaiBao.Command.Domain.dll
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Domain\obj\Debug\net8.0\ThuVienBaiBao.Command.Domain.pdb
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Domain\obj\Debug\net8.0\ref\ThuVienBaiBao.Command.Domain.dll

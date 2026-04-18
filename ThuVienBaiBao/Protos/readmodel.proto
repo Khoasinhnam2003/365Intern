@@ -1,0 +1,76 @@
+syntax = "proto3";
+
+option csharp_namespace = "ThuVienBaiBao.Grpc";
+
+package thuvienbaibao.readmodel;
+
+service ReadModel {
+  rpc ListMenus (EmptyRequest) returns (MenuSummaryListReply);
+  rpc GetMenuById (MenuRequest) returns (MenuDetailReply);
+  rpc ListNews (EmptyRequest) returns (NewsSummaryListReply);
+  rpc GetNewsById (NewsRequest) returns (NewsDetailReply);
+}
+
+message EmptyRequest {}
+
+message MenuRequest {
+  int32 id = 1;
+}
+
+message NewsRequest {
+  int32 id = 1;
+}
+
+message RelatedNewsReply {
+  int32 id = 1;
+  string title = 2;
+  string slug = 3;
+}
+
+message RelatedMenuReply {
+  int32 id = 1;
+  string name = 2;
+  string slug = 3;
+}
+
+message MenuSummaryReply {
+  int32 id = 1;
+  string name = 2;
+  string slug = 3;
+  string description = 4;
+  int32 news_count = 5;
+}
+
+message NewsSummaryReply {
+  int32 id = 1;
+  string title = 2;
+  string slug = 3;
+  bool is_published = 4;
+  int32 menu_count = 5;
+}
+
+message MenuDetailReply {
+  int32 id = 1;
+  string name = 2;
+  string slug = 3;
+  string description = 4;
+  repeated RelatedNewsReply news = 5;
+}
+
+message NewsDetailReply {
+  int32 id = 1;
+  string title = 2;
+  string slug = 3;
+  string content = 4;
+  bool is_published = 5;
+  string published_at = 6;
+  repeated RelatedMenuReply menus = 7;
+}
+
+message MenuSummaryListReply {
+  repeated MenuSummaryReply items = 1;
+}
+
+message NewsSummaryListReply {
+  repeated NewsSummaryReply items = 1;
+}

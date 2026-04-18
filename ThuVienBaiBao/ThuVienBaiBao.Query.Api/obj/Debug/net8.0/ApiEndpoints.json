@@ -1,0 +1,94 @@
+[
+  {
+    "ContainingType": "ThuVienBaiBao.Query.Presentation.Controllers.MenusController",
+    "Method": "GetAll",
+    "RelativePath": "api/menus",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IReadOnlyCollection\u00601[[ThuVienBaiBao.Query.Contracts.Menus.MenuSummaryDto, ThuVienBaiBao.Query.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ThuVienBaiBao.Query.Presentation.Controllers.MenusController",
+    "Method": "GetById",
+    "RelativePath": "api/menus/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ThuVienBaiBao.Query.Contracts.Menus.MenuDetailDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ThuVienBaiBao.Query.Presentation.Controllers.NewsController",
+    "Method": "GetAll",
+    "RelativePath": "api/news",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IReadOnlyCollection\u00601[[ThuVienBaiBao.Query.Contracts.News.NewsSummaryDto, ThuVienBaiBao.Query.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ThuVienBaiBao.Query.Presentation.Controllers.NewsController",
+    "Method": "GetById",
+    "RelativePath": "api/news/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ThuVienBaiBao.Query.Contracts.News.NewsDetailDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

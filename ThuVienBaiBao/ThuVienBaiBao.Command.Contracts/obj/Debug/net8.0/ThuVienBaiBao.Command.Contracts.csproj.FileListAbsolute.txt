@@ -1,0 +1,11 @@
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Contracts\bin\Debug\net8.0\ThuVienBaiBao.Command.Contracts.deps.json
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Contracts\bin\Debug\net8.0\ThuVienBaiBao.Command.Contracts.dll
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Contracts\bin\Debug\net8.0\ThuVienBaiBao.Command.Contracts.pdb
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Contracts\obj\Debug\net8.0\ThuVienBaiBao.Command.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Contracts\obj\Debug\net8.0\ThuVienBaiBao.Command.Contracts.AssemblyInfoInputs.cache
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Contracts\obj\Debug\net8.0\ThuVienBaiBao.Command.Contracts.AssemblyInfo.cs
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Contracts\obj\Debug\net8.0\ThuVienBaiBao.Command.Contracts.csproj.CoreCompileInputs.cache
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Contracts\obj\Debug\net8.0\ThuVienBaiBao.Command.Contracts.dll
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Contracts\obj\Debug\net8.0\refint\ThuVienBaiBao.Command.Contracts.dll
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Contracts\obj\Debug\net8.0\ThuVienBaiBao.Command.Contracts.pdb
+D:\ProjectTest\ThuVienBaiBao\ThuVienBaiBao.Command.Contracts\obj\Debug\net8.0\ref\ThuVienBaiBao.Command.Contracts.dll
